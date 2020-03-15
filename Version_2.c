@@ -11,7 +11,7 @@ int solve_passwd(char *temp,int limit,int index,char *passwd,int flag);
 
 int main()
 {
-	int b;
+	int a;
 
 	program();
 	return 0;
